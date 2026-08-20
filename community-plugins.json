@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "id": "hotkeysplus-obsidian",
     "name": "Hotkeys++",
@@ -46759,5 +46759,5 @@
     "description": "Warns when your vault unexpectedly loses files, Markdown notes, or storage size. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "nyonyataro/obsidian-vault-canary"
   },
-  {"id": "dsh-harness", "name": "DeepSeek Harness", "author": "hjxcloud-tech", "description": "Embed DeepSeek Harness Web GUI in Obsidian with auto service startup", "repo": "hjxcloud-tech/dsh-harness", "branch": "main"}
+  {"id": "dsh-harness", "name": "DeepSeek Harness", "author": "hjxcloud-tech", "description": "Embed the DeepSeek Harness Web GUI: one-click install, silent service startup, two-way bridge between notes and DSH, and AED safe-mode recovery.", "repo": "hjxcloud-tech/dsh-harness", "branch": "main"}
 ]
